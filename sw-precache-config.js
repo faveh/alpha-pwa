@@ -9,4 +9,5 @@ module.exports = {
   root: 'dist',
   stripPrefix: 'dist/',
   navigateFallback: '/index.html'
+  
 };
